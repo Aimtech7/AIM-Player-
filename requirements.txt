@@ -1,0 +1,7 @@
+customtkinter
+numpy
+pydub
+simpleaudio
+librosa
+scipy
+pillow
